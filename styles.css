@@ -9,6 +9,7 @@ body {
     gap: 8px;
 }
 
+
 .quote {
     position: relative;
     border-top-right-radius: 100px;
@@ -19,6 +20,7 @@ body {
 .div1 {
     background-color: #8250df;
     width: 600px;
+    height: 500px;
     grid-column: span 2 / span 2;
     grid-row: span 3 / span 3;
     color:white;
