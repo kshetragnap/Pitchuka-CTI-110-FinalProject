@@ -105,20 +105,20 @@ div3 p{
   left: 25px;
 }
 
-/* Name (“Daniel Clifford”) */
+
+
 .div1 h5:first-of-type,
 .div2 h5:first-of-type,
 .div3 h5:first-of-type,
 .div4 h5:first-of-type,
 .div5 h5:first-of-type {
-  margin-top: 25px;   /* aligns with image vertically */
-  margin-left: 90px;  /* shifts text to the right of the image */
+  margin-top: 25px;   
+  margin-left: 90px;  
   margin-bottom: -5px;
   font-size: 0.95rem;
   font-weight: bold;
 }
 
-/* Verified Graduate (2nd h5) */
 .div1 h5:nth-of-type(2),
 .div2 h5:nth-of-type(2),
 .div3 h5:nth-of-type(2),
@@ -131,6 +131,34 @@ div3 p{
   margin-bottom: 20px;
 }
 
+
+/* AI */
+
+@media (max-width: 850px) {
+    .parent {
+        grid-template-columns: 1fr;
+    }
+
+    .div1 {
+        grid-column: 1 !important;
+        grid-row: auto !important;
+    }
+     .div2 {
+        grid-column: 1 !important;
+        grid-row: auto !important;
+    }
+     .div3 {
+        grid-column: 1 !important;
+        grid-row: auto !important;
+    }
+     .div4 {
+        grid-column: 1 !important;
+        grid-row: auto !important;
+    }
+     .div5 {
+        grid-column: 1 !important;
+        grid-row: auto !important;
+    }
 
 
 

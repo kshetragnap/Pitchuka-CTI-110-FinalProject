@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [CTI-110 Final Project - Testimonials Grid by FIRST NAME LAST NAME](#cti-110-final-project---testimonials-grid-by-first-name-last-name)
+- [CTI-110 Final Project - Testimonials Grid by Kshetragna Pitchuka](#cti-110-final-project---testimonials-grid-by-Kshetragna-Pitchuka)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -24,14 +24,13 @@
 
 Users should be able to:
 
-- View the optimal layout for the interface depending on their device's screen size
+- Make my code available in both mobile and computer view
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./sc1.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox or other browser to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
+this is a screenshot of my results after fixing the mobile view
 
 ### Links
 
